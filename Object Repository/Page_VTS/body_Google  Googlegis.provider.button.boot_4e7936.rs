@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_Google  Googlegis.provider.button.boot_4e7936</name>
+   <tag></tag>
+   <elementGuidId>3b58e5ac-5efb-4612-8fcc-2e7fed6a4ff8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>body.qJTHM</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qJTHM</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Уваход праз GoogleУваход праз Googlegis.provider.button.bootstrap('CiIKFmwwRWpvL3FMaml5b20rMTZQYmsxVlESBHdhcm4aAmJlGpgBCkkxMDM5MTUzMzI2MDM0LW10dWg3dm5xamN0M2VucDhnZXRkNjhsamtpaW8yMjlzLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tEhVodHRwOi8vbG9jYWxob3N0OjQyMDAaGkVtcGxveWVlIE1hbmFnZW1lbnQgU3lzdGVtOhhhcnRlbS50c2VsdWV2QHNvZnRlcS5jb20iEWdzaV8zNTU4NjlfODI2NjQwMg4IARABGAEoAjABOAFQAQ\x3d\x3d');id(&quot;container&quot;)/div[@class=&quot;nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe i5vt6e-Ia7Qfc uaxL4e-RbRzK&quot;]/div[@class=&quot;nsm7Bb-HzV7m-LgbsSe-bN97Pc-sM5MNb&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;qJTHM&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_VTS/iframe_Accept_gsi_355869_826640</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[(text() = concat(&quot;Уваход праз GoogleУваход праз Googlegis.provider.button.bootstrap(&quot; , &quot;'&quot; , &quot;CiIKFmwwRWpvL3FMaml5b20rMTZQYmsxVlESBHdhcm4aAmJlGpgBCkkxMDM5MTUzMzI2MDM0LW10dWg3dm5xamN0M2VucDhnZXRkNjhsamtpaW8yMjlzLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tEhVodHRwOi8vbG9jYWxob3N0OjQyMDAaGkVtcGxveWVlIE1hbmFnZW1lbnQgU3lzdGVtOhhhcnRlbS50c2VsdWV2QHNvZnRlcS5jb20iEWdzaV8zNTU4NjlfODI2NjQwMg4IARABGAEoAjABOAFQAQ\x3d\x3d&quot; , &quot;'&quot; , &quot;);id(&quot;container&quot;)/div[@class=&quot;nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe i5vt6e-Ia7Qfc uaxL4e-RbRzK&quot;]/div[@class=&quot;nsm7Bb-HzV7m-LgbsSe-bN97Pc-sM5MNb&quot;]&quot;) or . = concat(&quot;Уваход праз GoogleУваход праз Googlegis.provider.button.bootstrap(&quot; , &quot;'&quot; , &quot;CiIKFmwwRWpvL3FMaml5b20rMTZQYmsxVlESBHdhcm4aAmJlGpgBCkkxMDM5MTUzMzI2MDM0LW10dWg3dm5xamN0M2VucDhnZXRkNjhsamtpaW8yMjlzLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tEhVodHRwOi8vbG9jYWxob3N0OjQyMDAaGkVtcGxveWVlIE1hbmFnZW1lbnQgU3lzdGVtOhhhcnRlbS50c2VsdWV2QHNvZnRlcS5jb20iEWdzaV8zNTU4NjlfODI2NjQwMg4IARABGAEoAjABOAFQAQ\x3d\x3d&quot; , &quot;'&quot; , &quot;);id(&quot;container&quot;)/div[@class=&quot;nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe i5vt6e-Ia7Qfc uaxL4e-RbRzK&quot;]/div[@class=&quot;nsm7Bb-HzV7m-LgbsSe-bN97Pc-sM5MNb&quot;]&quot;))]</value>
+   </webElementXpaths>
+</WebElementEntity>
